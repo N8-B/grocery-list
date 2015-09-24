@@ -1,0 +1,27 @@
+{
+  "name": "grocery-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "body-parser": "^1.14.0",
+    "browser-sync": "^2.9.6",
+    "browserify": "^11.1.0",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-live-server": "0.0.28",
+    "jquery": "^2.1.4",
+    "mongoose": "^4.1.8",
+    "node-uuid": "^1.4.3",
+    "react": "^0.13.3",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

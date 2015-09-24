@@ -1,0 +1,19 @@
+{
+  "name": "grocery-list",
+  "version": "0.0.0",
+  "authors": [
+    "Nathan Burkiewicz <nathan.burkiewicz@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3",
+    "skeleton": "~2.0.4"
+  }
+}
